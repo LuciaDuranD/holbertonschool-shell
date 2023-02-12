@@ -1,0 +1,1 @@
+Aprendiendo los conceptos sobre como se puede utilizar Shell y hacer su apertura
